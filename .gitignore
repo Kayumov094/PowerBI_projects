@@ -1,0 +1,18 @@
+.myconfig
+# Power BI vaqtinchalik fayllari
+~*.pbix
+*.tmp
+*.log
+
+# Windows tizim fayllari
+Thumbs.db
+.DS_Store
+
+# Python vaqtinchalik fayllari
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Test fayllari
+.test_file
