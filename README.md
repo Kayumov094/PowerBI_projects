@@ -1,2 +1,4 @@
 # PowerBI_projects
-create my own project in this repo
+## Ushbu repoda man o'zimni Power BI modulidagi vazifalarni yuklab boraman
+
+
